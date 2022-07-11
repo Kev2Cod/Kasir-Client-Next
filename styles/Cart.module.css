@@ -1,0 +1,4 @@
+.cart {
+  min-height: 75vh;
+  @apply flex flex-col;
+}

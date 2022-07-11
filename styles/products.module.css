@@ -1,0 +1,7 @@
+.products {
+}
+
+.card {
+  width: 10rem;
+  @apply bg-white rounded-lg p-3 text-center shadow-xl hover:shadow-lg  active:shadow-sm ease-out duration-75;
+}
